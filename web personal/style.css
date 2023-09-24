@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&family=Slabo+13px&display=swap');
+
+h1{
+    color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+    background-color: rgb(218, 214, 255);
+    /*Fuente General*/
+    font-family: 'Slabo 13px', serif;
+}
+
+p{
+    color: black;
+    font-size: 16px;
+}
+
+a{
+    color:  rgb(75, 30, 199);
+    text-decoration: none;
+}
